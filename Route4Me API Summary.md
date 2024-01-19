@@ -1,4 +1,3 @@
-![Route4Me](https://route4me.io/img/logo.png)
 # Route4Me API Summary
 
 ## Intro
